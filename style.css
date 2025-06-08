@@ -1,0 +1,198 @@
+.img {
+    height: 92px;
+    width: 170px;
+}
+
+#bg{
+    background-color:#141414;
+    background-size:cover;
+}
+#link_navitem{
+    color:white;
+}
+#link_navitem1{
+    color:white;
+}
+#link_navitem2{
+    color:white;
+}
+#link_navitem3{
+    color:white;
+}
+#link_navitem4{
+    color:white;
+}
+#link_navitem5{
+    color:white;
+}
+.img2{
+    height:60px;
+    width:60px;
+}
+#glass{
+    color:white;
+    padding:5px;
+    height:20px;
+}
+#bell{
+    color:white;
+    padding:5px
+}
+.h1{
+    color:white;
+    font-family: 'Cinzel', serif;
+    font-size:30px;
+    font-weight:bold;
+}
+.banner-section{
+    background-color:#1c1c1c;
+    background-size:cover;
+    height:400vh;
+    width:100vw;
+}
+.p{
+    color:white;
+    font-size:20px;
+    font-family:"Roboto";
+    font-weight:bold;
+}
+.picture{
+    background-image:url('https://occ-0-8407-90.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAABVBoNoT7w9QWAzo9aiNmsP6QkJ3a_XcqYcrqa2qeocpgq77VkOSly7NEggsC_J2zw4NoVk32SsEsiSDOlIgVXFl-rIbNbrbHhIBN.jpg?r=611');
+    height:60vh;
+    width:100%;
+    background-size:cover;
+}
+.btn{
+    height:40px;
+    width:120px;
+    background-color:white;
+    color:black;
+    border-radius:5px;
+    padding:5px;
+    font-size:23px;
+    margin:5px;
+}
+.b{
+    color:white;
+    font-size:30px;
+    padding:5px;
+    margin:5px;
+}
+.footer-sec {
+    
+    padding: 30px;
+    color: white;
+}
+
+.social-icons i {
+    color: white;
+    margin-right: 20px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.footer-links {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.footer-links a {
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.footer-links a:hover {
+    text-decoration: underline;
+}
+.carousel-section {
+    margin: 40px 0;
+    padding-left: 20px;
+  }
+  
+  .carousel-title {
+    color: white;
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .carousel-row {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+    scroll-behavior: smooth;
+  }
+  
+  .carousel-item {
+    flex: 0 0 auto;
+    width: 250px;
+    height: 140px;
+    overflow: hidden;
+    border-radius: 5px;
+  }
+  
+  .carousel-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+  }
+  
+  .carousel-item img:hover {
+    transform: scale(1.05);
+  }
+  .m1{
+    height:300px;
+    width:350px;
+  }
+  ustom-carousel-wrapper {
+    max-width: 600px;  /* or 80% or any size you prefer */
+    margin: 0 auto;
+  }
+  
+  arousel-inner img {
+    height: 300px;         /* Adjust the height as needed */
+    object-fit: cover;     /* To keep the image fit neatly */
+  }
+  .trending-title {
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    margin: 20px 0 10px 20px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  }
+  
+  .netflix-carousel {
+    padding: 20px;
+  }
+  
+  .carousel-heading {
+    color: white;
+    font-size: 24px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  }
+  
+  .carousel-track {
+    display: flex;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+    gap: 15px;
+    padding-bottom: 10px;
+  }
+  
+  .carousel-track img {
+    width: 220px;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 6px;
+    transition: transform 0.3s ease;
+  }
+  
+  .carousel-track img:hover {
+    transform: scale(1.05);
+  }
+  
